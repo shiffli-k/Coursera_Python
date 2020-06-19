@@ -1,0 +1,4 @@
+Welcome to python!
+This language is like java but more fun
+I am sure there some java enthusiasts are being salty now
+Either way, python is amazing.
